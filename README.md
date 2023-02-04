@@ -32,7 +32,7 @@ A project to develop a Product Card.
 
 Product Card is a project to develop a product card gif.
 
-- [Acesse o projeto finalizado, online](https://Ciro-TI-System.github.io/ProductCard)
+- [Acesse o projeto finalizado, online](https://Ciro-ti-system.github.io/ProductCard)
 
 ---
 
