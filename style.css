@@ -9,4 +9,14 @@ body {
 
 body * {
   color: var(--text-color);
+  font-family: "Lato", sans-serif;
+}
+
+#btn-close,
+#animated {
+  display: none;
+}
+
+h1 {
+  font-family: "Crimson Pro", serif;
 }
